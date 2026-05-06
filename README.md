@@ -6,7 +6,7 @@ Parable of the Sower (Octavia E. Butler, 1993) contains a religion called Earths
 Earthseed.md is the result: a structured Markdown document that translates Butler's world-building into a functional specification for an actual Earthseed community. Not a summary. Not a fan tribute. A document you could hand to a group of strangers and use to begin.
 
 The premise
-Butler didn't write a manifesto — she wrote fiction. But the logic inside that fiction is real. Social structures, governance protocols, spatial principles, ritual forms, economic arrangements: they're all there, implied and sometimes explicit, across the two Parable novels.
+We are extracting the system logic within Butler's novel. Social structures, governance protocols, spatial principles, ritual forms, economic arrangements: they're all there, implied and sometimes explicit, across the two Parable novels.
 Our method is analytical fiction — close-reading a novel as if it were a design brief, then producing design artifacts from what we find. The .md is the primary artifact. Everything else in this repo is generated from it.
 
 The genre
